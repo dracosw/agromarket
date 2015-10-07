@@ -1,0 +1,213 @@
+<?php $__env->startSection('contenido'); ?>   
+
+                
+
+                    <div class="row">
+
+
+                         <div class="col-md-4">
+                            
+                            <!-- START WIDGET REGISTRED -->
+                            <div class="widget widget-default widget-item-icon">
+                                <div style="padding:10px;">
+                                    <h2>Confirguración Embudo</h2>  
+
+                                    
+                                    
+                                     <div class="panel-body">        
+                                        <p>Un embudo te ayudará a coseguir prospectos a través de internet:</p>       
+                                        
+                                         <div class="form-group">
+                                            <label class="col-md-3 control-label">Video Inicial</label>
+                                            <div class="col-md-9">                                            
+                                                <div class="input-group">
+                                                    <span class="input-group-addon"><span class="fa fa-pencil"></span></span>
+                                                    <input type="txtvideo" id="fipassword" class="form-control"/>
+                                                </div>                                            
+                                                <span class="help-block">* Si no pones una ruta youtube, el sistema pondrá uno por defecto.</span>
+                                            </div>
+                                        </div>
+
+
+
+                                         <div class="form-group">
+                                            <label class="col-md-3 control-label">Autoresponder</label>
+                                            <div class="col-md-9">                                            
+                                                <div class="input-group">
+                                                   
+                                                   <select>
+                                                       <option>Por Defecto</option>
+                                                       <option>Aweber</option>
+                                                       <option>Getresponse</option>
+                                                   </select>
+                                                </div>                                            
+                                                <span class="help-block">* Si escoges "por defecto", tomará el autoresponder de GoldSchool.</span>
+                                            </div>
+                                        </div>
+
+
+                                        <div class="form-group">
+                                            <label class="col-md-3 control-label">Código Autoresponder</label>
+                                            <div class="col-md-9">                                            
+                                                <div class="input-group" >
+                                                   
+                                                    <textarea name="txtcodigoauto" id="txtcodigoauto" class="form-control" rows="5"></textarea>
+                                                </div>                                            
+                                                <span class="help-block">* Si escoges "por defecto", tomará el autoresponder de GoldSchool.</span>
+                                            </div>
+                                        </div>
+
+
+
+                                    </div>
+
+                                    <div class="panel-footer">
+                                        <button class="btn btn-default" id="btncancelar">Cancelar</button>                                    
+                                        <button class="btn btn-success pull-right" id="btnguardar">Guardar</button>
+                                    </div>
+                                  
+                                </div>
+                                               
+                            </div>                            
+                            <!-- END WIDGET REGISTRED -->
+                            
+                        </div>
+                        
+                        <div class="col-md-8">
+                        <div class="row">
+                         <div class="col-md-6">
+                            
+                            <!-- START WIDGET REGISTRED -->
+                            <div class="widget widget-default widget-item-icon">
+                                <div style="padding:10px;">
+                                    <h2 id="titulo_principal">Paginas de Captura No 1.</h2>        
+                                    
+                                    <div class="row" style="text-align:center;">
+
+                                        
+                                        <img src="../assets/img/backoffice/land1.jpg" class="col-md-4">
+
+                                        <div class="col-md-8">
+                                            
+                                            <div class="widget" style="background-color:#F9FFD0 !important; text-align:center;">
+                                                <img src="../assets/img/backoffice/code_qr.jpg"  class="col-md-6">
+                                                <p style="color:#000">Comparte este enlace o descarga el codigo QR</p>
+                                                <p><a href="http://draco.yo:8888/embudo">http://draco.yo:8888/embudo</a>        </p>
+                                                                                                              
+                                            </div>       
+                                        </div>
+                                        
+                                        
+
+                                    </div>
+
+                                 
+                                    
+                                </div>   
+                            </div>                            
+                            <!-- END WIDGET REGISTRED -->
+                            
+                        </div>
+
+
+                         <div class="col-md-6">
+                            
+                            <!-- START WIDGET REGISTRED -->
+                            <div class="widget widget-default widget-item-icon">
+                                <div style="padding:10px;">
+                                    <h2 id="titulo_principal">Paginas de Captura No 2.</h2>        
+                                    
+                                    <div class="row" style="text-align:center;">
+
+                                        
+                                        <img src="../assets/img/backoffice/land2.jpg" class="col-md-4">
+
+                                        <div class="col-md-8">
+                                            
+                                            <div class="widget" style="background-color:#F9FFD0 !important; text-align:center;">
+                                                <img src="../assets/img/backoffice/code_qr.jpg"  class="col-md-6">
+                                                <p style="color:#000">Comparte este enlace o descarga el codigo QR</p>
+                                                <p><a href="http://draco.yo:8888/embudo">http://draco.yo:8888/embudo</a>        </p>
+                                                                                                              
+                                            </div>       
+                                        </div>
+                                        
+                                        
+
+                                    </div>
+
+                                 
+                                    
+                                </div>   
+                            </div>                            
+                            <!-- END WIDGET REGISTRED -->
+                            
+                        </div>
+
+
+
+                       
+
+                       </div>
+                       <div class="row">
+                             <div class="col-md-6">
+                            
+                            <!-- START WIDGET REGISTRED -->
+                            <div class="widget widget-default widget-item-icon">
+                                <div style="padding:10px;">
+                                    <h2 id="titulo_principal">Paginas de Captura No 3.</h2>        
+                                    
+                                    <div class="row" style="text-align:center;">
+
+                                        
+                                        <img src="../assets/img/backoffice/land3.jpg" class="col-md-4">
+
+                                        <div class="col-md-8">
+                                            
+                                            <div class="widget" style="background-color:#F9FFD0 !important; text-align:center;">
+                                                <img src="../assets/img/backoffice/code_qr.jpg"  class="col-md-6">
+                                                <p style="color:#000">Comparte este enlace o descarga el codigo QR</p>
+                                                <p><a href="http://draco.yo:8888/embudo">http://draco.yo:8888/embudo</a>        </p>
+                                                                                                              
+                                            </div>       
+                                        </div>
+                                        
+                                        
+
+                                    </div>
+
+                                 
+                                    
+                                </div>   
+                            </div>                            
+                            <!-- END WIDGET REGISTRED -->
+                            
+                        </div>
+                       </div>
+                    </div>
+
+
+                    </div>
+
+                   
+                    <!-- END WIDGETS -->                    
+                    
+                    
+                    
+               
+                </div>
+                <!-- END PAGE CONTENT WRAPPER -->   
+
+                <script type="text/javascript">
+                	function abrir_video(video){
+                		
+                		
+                	}
+                </script>
+			
+
+
+          
+
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('backoffice.index', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

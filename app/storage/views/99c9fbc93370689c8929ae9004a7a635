@@ -1,0 +1,58 @@
+<?php $__env->startSection('contenido'); ?>   
+
+                
+              
+                
+                <!-- PAGE TITLE -->
+                <div class="page-title">                    
+                    <h2><span class="fa fa-users"></span> Referidos <small><?php echo $cantidad_referidos; ?> contactos</small></h2>
+                </div>
+                <!-- END PAGE TITLE -->                
+                
+                <!-- PAGE CONTENT WRAPPER -->
+                <div class="page-content-wrap">
+                    
+                    
+                    
+                    <div class="row">
+
+                        <?php foreach($arrausuarios as $usu): ?> 
+                           
+                            <div class="col-md-3">
+                                <!-- CONTACT ITEM -->
+                                <div class="panel panel-default">
+                                    <div class="panel-body profile">
+                                        <div class="profile-image">
+                                            <img src="../assets/img/usuarios/<?php echo $usu->foto; ?>" alt="<?php echo $usu->nombres; ?>"/>
+                                        </div>
+                                        <div class="profile-data">
+                                            <div class="profile-data-name"><?php echo $usu->nombres; ?></div>
+                                            <div class="profile-data-title"><?php echo $usu->titulo; ?></div>
+                                        </div>
+                                     
+                                    </div>                                
+                                    <div class="panel-body">                                    
+                                        <div class="contact-info">
+                                            <p><small>Telefono</small><br/><?php echo $usu->telefono; ?></p>
+                                            <p><small>Email</small><br/><?php echo $usu->email; ?></p>                            
+                                        </div>
+                                    </div>                                
+                                </div>
+                                <!-- END CONTACT ITEM -->
+                            </div>
+
+                        <?php endforeach; ?>
+
+
+
+                  
+                   
+
+                    </div>
+                   
+                <!-- END PAGE CONTENT WRAPPER -->                                                 
+            </div>    
+
+
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('backoffice.index', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

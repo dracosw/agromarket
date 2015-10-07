@@ -1,0 +1,296 @@
+<?php $__env->startSection('contenido'); ?>   
+
+                
+
+                    <div class="row">
+                        
+                        <div class="col-md-4">
+                            <div class="widget widget-item-icon" style="background-color:#F9FFD0">
+                                <div style="padding:10px;">
+                                    <h2>Enlaces Karatbars</h2>  
+                                
+                                    
+                                    
+                                     <div class="panel-body"> 
+                                          <ul>
+                                            <li style="color:#000;">Acceda a su oficina virtual de Karatbars International: <a href="https://www.karatbars.com/index.php?page=login_1" target="_blank">AQUI</a></li>
+                                            <li style="color:#000;">Acceda su cuenta de MasterCard de Karatbars: <a href="https://www.prepaidfinancialservices.com/login/" target="_blank">AQUI</a></li>
+                                            <li style="color:#000;">Acceda a su eWallet de Karatbars International: <a href="https://karatbars.globalewallet.com/MemberLogin.aspx" target="_blank">AQUI</a></li>
+                                            <li style="color:#000;">Únase a nuestro grupo en Facebook para mantenerse en contacto: <a href="https://www.facebook.com/groups/122200057921463/" target="_blank">AQUI</a></li>
+                                            <li style="color:#000;">REGISTRO MERCANTIL DE KARATBARS INTERNATIONAL EN EUROPA: <a href="https://e-justice.europa.eu/home.do?action=home&plang=es" target="_blank">AQUI</a></li>
+
+                                            
+                                        </ul>
+
+
+                                     </div>
+
+
+                                     <h2>Enlaces Personales Karatbars</h2>  
+                                
+                                    
+                                    
+                                     <div class="panel-body"> 
+                                          <ul>
+                                            <li style="color:#000;">Su Enlace de Afiliado: <a href="https://karatbars.com/?s=libertadangel" target="_blank">https://karatbars.com/?s=libertadangel</a></li>
+                                            <li style="color:#000;">El enlace a su Tienda: <a href="https://karatbars.com/shop/?s=libertadangel" target="_blank">https://karatbars.com/shop/?s=libertadangel</a></li>
+                                            <li style="color:#000;">Tu K-Exchange Link: <a href="https://karatbars.com/k-exchange/?s=libertadangel" target="_blank">https://karatbars.com/k-exchange/?s=libertadangel</a></li>
+                                           
+
+                                           
+
+                                            
+                                        </ul>
+
+
+                                     </div>
+                                </div>
+                            </div>                        
+
+                        </div>
+
+                         <div class="col-md-4">
+                            
+                            <!-- START WIDGET REGISTRED -->
+                            <div class="widget widget-default widget-item-icon">
+                                <div style="padding:10px;">
+                                    <h2>Perfíl Personal</h2>  
+                                   
+
+                                    
+                                    
+                                     <div class="panel-body">        
+                                                                            
+                                        <div class="form-group">
+                                            <label class="col-md-3 control-label">Usuario</label>
+                                            <div class="col-md-9">                                            
+                                                <div class="input-group">
+                                                    <span class="input-group-addon"><span class="fa fa-pencil"></span></span>
+                                                    <input type="text" id="fiusuario" class="form-control"/>
+                                                </div>                                            
+                                                <span class="help-block">Usuario de Karatbars, si te haz equivocado, favor envíar un correo a soporte@k-goldschool.com</span>
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group">
+                                            <label class="col-md-3 control-label">Nombres</label>
+                                            <div class="col-md-9">                                            
+                                                <div class="input-group">
+                                                    <span class="input-group-addon"><span class="fa fa-pencil"></span></span>
+                                                    <input type="text" id="finombres" class="form-control"/>
+                                                </div>                                            
+                                                <span class="help-block">* Aquí va tu nombre personal.</span>
+                                            </div>
+                                        </div>
+
+                                         <div class="form-group">
+                                            <label class="col-md-3 control-label">Apellidos</label>
+                                            <div class="col-md-9">                                            
+                                                <div class="input-group">
+                                                    <span class="input-group-addon"><span class="fa fa-pencil"></span></span>
+                                                    <input type="text" id="finombres" class="form-control"/>
+                                                </div>                                            
+                                                <span class="help-block">* Aquí van tus apellidos.</span>
+                                            </div>
+                                        </div>
+
+
+                                        <div class="form-group">
+                                            <label class="col-md-3 control-label">Correo Electrónico</label>
+                                            <div class="col-md-9">                                            
+                                                <div class="input-group">
+                                                    <span class="input-group-addon"><span class="fa fa-pencil"></span></span>
+                                                    <input type="text" id="finombres" class="form-control"/>
+                                                </div>                                            
+                                                <span class="help-block">* Dirección de Correo Electronico.</span>
+                                            </div>
+                                        </div>
+
+
+                                        <div class="form-group">
+                                            <label class="col-md-3 control-label">Password</label>
+                                            <div class="col-md-9">                                            
+                                                <div class="input-group">
+                                                    <span class="input-group-addon"><span class="fa fa-pencil"></span></span>
+                                                    <input type="password" id="fipassword" class="form-control"/>
+                                                </div>                                            
+                                                <span class="help-block">* Si quieres cambiar de password.</span>
+                                            </div>
+                                        </div>
+
+                                         <div class="form-group">
+                                            <label class="col-md-3 control-label">Repetir Password</label>
+                                            <div class="col-md-9">                                            
+                                                <div class="input-group">
+                                                    <span class="input-group-addon"><span class="fa fa-pencil"></span></span>
+                                                    <input type="password" id="fipassword" class="form-control"/>
+                                                </div>                                            
+                                                <span class="help-block">* Si quieres cambiar de password.</span>
+                                            </div>
+                                        </div>
+
+
+                                         <div class="form-group">
+                                            <label class="col-md-3 control-label">Teléfono</label>
+                                            <div class="col-md-9">                                            
+                                                <div class="input-group">
+                                                    <span class="input-group-addon"><span class="fa fa-pencil"></span></span>
+                                                    <input type="password" id="fipassword" class="form-control"/>
+                                                </div>                                            
+                                                <span class="help-block">* Ayuda a tus prospectos a comunicarte contigo.</span>
+                                            </div>
+                                        </div>
+
+
+                                         <div class="form-group">
+                                            <label class="col-md-3 control-label">Foto</label>
+                                            <div class="col-md-9">                                            
+                                                <div class="input-group">
+                                                    <span class="input-group-addon"><span class="fa fa-pencil"></span></span>
+                                                    <input type="password" id="fipassword" class="form-control"/>
+                                                </div>                                            
+                                                <span class="help-block">* Se recomienda que la foto sea de 250 x 250 pixeles.</span>
+                                            </div>
+                                        </div>
+
+
+
+
+
+
+                                    </div>
+
+                                    <div class="panel-footer">
+                                        <button class="btn btn-default" id="btncancelar">Cancelar</button>                                    
+                                        <button class="btn btn-success pull-right" id="btnguardar">Guardar</button>
+                                    </div>
+                                  
+                                </div>
+                                               
+                            </div>         
+
+                                                     
+                            <!-- END WIDGET REGISTRED -->
+                            
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="widget widget-default widget-item-icon">
+                                <div style="padding:10px;">
+                                    <h2>Redes Sociales</h2>  
+
+                                    
+                                    
+                                     <div class="panel-body">        
+                                                                            
+                                        <div class="form-group">
+                                            <label class="col-md-3 control-label">Facebook</label>
+                                            <div class="col-md-9">                                            
+                                                <div class="input-group">
+                                                    <span class="input-group-addon"><span class="fa fa-pencil"></span></span>
+                                                    <input type="text" id="fifacebook" class="form-control"/>
+                                                </div>                                            
+                                                <span class="help-block">URL del Usuario de Facebook</span>
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group">
+                                            <label class="col-md-3 control-label">Twitter</label>
+                                            <div class="col-md-9">                                            
+                                                <div class="input-group">
+                                                    <span class="input-group-addon"><span class="fa fa-pencil"></span></span>
+                                                    <input type="text" id="fitwitter" class="form-control"/>
+                                                </div>                                            
+                                                <span class="help-block">URL del Usuario de twitter</span>
+                                            </div>
+                                        </div>
+
+                                         <div class="form-group">
+                                            <label class="col-md-3 control-label">LinkedIn</label>
+                                            <div class="col-md-9">                                            
+                                                <div class="input-group">
+                                                    <span class="input-group-addon"><span class="fa fa-pencil"></span></span>
+                                                    <input type="text" id="filinkedin" class="form-control"/>
+                                                </div>                                            
+                                                <span class="help-block">URL del Usuario de Linkedin</span>
+                                            </div>
+                                        </div>
+
+
+                                        <div class="form-group">
+                                            <label class="col-md-3 control-label">Youtube</label>
+                                            <div class="col-md-9">                                            
+                                                <div class="input-group">
+                                                    <span class="input-group-addon"><span class="fa fa-pencil"></span></span>
+                                                    <input type="text" id="filinkedin" class="form-control"/>
+                                                </div>                                            
+                                                <span class="help-block">URL del Usuario de youtube</span>
+                                            </div>
+                                        </div>
+
+
+                                         <div class="form-group">
+                                            <label class="col-md-3 control-label">Blog</label>
+                                            <div class="col-md-9">                                            
+                                                <div class="input-group">
+                                                    <span class="input-group-addon"><span class="fa fa-pencil"></span></span>
+                                                    <input type="text" id="filinkedin" class="form-control"/>
+                                                </div>                                            
+                                                <span class="help-block">URL del Blog</span>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <div class="panel-footer">
+                                        <button class="btn btn-default" id="btncancelar">Cancelar</button>                                    
+                                        <button class="btn btn-success pull-right" id="btnguardar">Guardar</button>
+                                    </div>
+                                  
+                                </div>
+                                               
+                            </div> 
+                        </div>
+
+                      
+                       
+
+
+                        
+
+
+                    </div>
+
+                   
+                    <!-- END WIDGETS -->                    
+                    
+                    
+                    
+               
+                </div>
+                <!-- END PAGE CONTENT WRAPPER -->   
+
+                <script type="text/javascript">
+                    function abrir_video(video){
+                        var urlvideo="";
+                        var titulo_video="";
+                        var descripcion_video="";
+                        if(video==1){
+                            titulo_video="Video Formula 30 30 30";
+                            urlvideo="ohdYnxPwqVw"; 
+                            descripcion_video="";
+                        }
+
+                        $("#video_principal").attr("src","https://www.youtube.com/embed/"+urlvideo);
+                        $("#titulo_principal").html(""+titulo_video);
+                        $("#descripcion_video").html(""+descripcion_video);
+                        
+                    }
+                </script>
+            
+
+
+          
+
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('backoffice.index', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

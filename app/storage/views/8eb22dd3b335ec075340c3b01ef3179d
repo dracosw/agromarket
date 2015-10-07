@@ -1,0 +1,327 @@
+<?php $__env->startSection('contenido'); ?>   
+
+                
+
+                    <div class="row">
+
+
+                         <div class="col-md-4">
+                            
+                            <!-- START WIDGET REGISTRED -->
+                            <div class="widget widget-default widget-item-icon">
+                                <div style="padding:10px;">
+                                    <h2>Producto - Karatbars Branding Cards</h2>  
+
+                                    
+                                    
+                                     <div class="panel-body">        
+                                        <p>En este módulo encontrarás la información acerca de la Karatbars Branding Card</p> 
+                                        
+                                        <div class="widget widget-default widget-carousel">
+                                            <div class="owl-carousel" id="owl-example">
+                                                <div>                                    
+                                                    <img src="../assets/img/backoffice/branding_card.jpg" style="width:100%; height:auto; ">        
+                                                </div>
+                                                <div>                                    
+                                                   <img src="../assets/img/backoffice/branding_card2.jpg" style="width:100%; height:auto; ">        
+                                                </div>
+
+                                                <div>                                    
+                                                   <img src="../assets/img/backoffice/branding_card3.jpg" style="width:100%; height:auto; ">        
+                                                </div>
+
+                                                <div>                                    
+                                                   <img src="../assets/img/backoffice/branding_card4.jpg" style="width:100%; height:auto; ">        
+                                                </div>
+                                              
+                                            </div>                            
+                                                                     
+                                        </div>         
+
+                                                              
+                                    </div>
+                                  
+                                </div>
+                                               
+                            </div>                            
+                            <!-- END WIDGET REGISTRED -->
+                            
+                        </div>
+
+
+                         <div class="col-md-8">
+                            
+                            <!-- START WIDGET REGISTRED -->
+                            <div class="widget widget-default widget-item-icon">
+                                <div style="padding:10px;">
+                                    <h2>Karatbars Branding Card</h2>        
+
+                                    <div id="contenedor_global">
+                                        
+                                        <p><strong>Karatbars International</strong> ha creado un producto muy poderoso y muy exclusivo dentro del mercado de la publicidad y del mercado particular en el sector regalos, dando la posibilidad de crear tarjetas totalmente personalizables con la imagen que el cliente desee con lingotes de oro.</p>
+                                        <p>Puede ser con la imagen y logotipo de una empresa, datos de contacto, etc. o bien con la imagen que se desee, creando de esta forma tarjetas con diseños únicos en el mundo.</p>
+                                        <p>Esta es una forma realmente excepcionalmente única y muy exclusiva de hacer un regalo o bien de empresa o personal.</p>
+                                        <p><strong>A nivel profesional… </strong></p>
+                                        <p>Este es un gran producto dentro del sector publicitario para crear marca. Es un regalo publicitario muy especial y muy exclusivo que jamás será olvidado y que jamás acabará en la basura como sucede con el 99% de la publicidad que hacen las empresas actualmente.</p>
+                                        
+                                        <img src="../assets/img/backoffice/brand_todas.jpg" style="margin-left:20px; width:75%;">
+                                        
+                                        <p><strong>A nivel personal…</strong></p>
+                                        <p>Las tarjetas personalizables de Karatbars International son una forma única de hacer un regalo bello y exclusivo.</p>
+                                        <p>Un regalo realmente único en el mundo.</p>
+                                        <p>Regale oro a las personas que ama pero de una forma totalmente diferente y exclusiva.</p>
+                                        <p>Las tarjetas personalizables son el regalo único que perdurará eternamente en el tiempo y que cada día tendrá más valor.</p>
+                                        <p>Un regalo eterno como el oro.</p>
+                                        <p>Todas las tarjetas personalizables van con 1 gramo de oro de máxima pureza, oro de 24 quilates de 999.9 milésimas de pureza.</p>
+                                        
+
+
+                                        <p><strong>Las Branding Cards de Karatbars son un gran regalo excepcional y muy exclusivo para recordar momentos inolvidables.</strong></p>
+                                        
+                                        <p><strong>Puntos Importantes sobre las Branding Cards de Karatbars International:</strong></p>
+                                        
+                                        <p><strong>1º.- Libertad de Precios de Venta:</strong></p>
+
+
+                                        
+
+                                        <p>Las Branding Cards pueden ser vendidas al precio que se desee, el cliente que adquiere Branding Cards tiene total libertad de acción sobre los precios de venta de las mismas una vez que las a adquirido, creando de esta forma un mercado muy lucrativo.</p>
+
+                                        
+                                        <p><strong>2º.- Un producto exclusivo destinado a un sin fin de sectores:</strong></p>
+
+                                        <p>Las Branding Cards de Karatbars International es un producto que puede ser enfocado a muchísimos sectores, desde el sector publicitario para crear Branding, hasta el mercado de souvenirs, el mercado particular, bodas, bautizos, comuniones, momentos especiales, el nacimiento de un niño, un regalo de enamorados, una tarjeta de visita elegante, exclusiva y con un gran caché, etc..</p>
+
+                                        <p>Las posibilidades de este producto tiene su límite donde llegue la imaginación.</p>
+
+                                        
+                                        <p><strong>3º.- Desde tan solo una tarjeta.</strong></p>
+
+                                        <p>Las Branding Cards de Karatbars International pueden ser adquiridas desde una sola tarjeta, esto hace que las posibilidades sean extraordinarias.</p>
+
+
+                                        
+                                        <p><strong>Precios de las Branding Cards de Karatbars:</strong></p>
+
+                                        <p><strong>1 tarjeta</strong> = <span style="color:blue;">20 euros por tarjeta</span> + <span style="color:red;">el oro</span><br />
+                                        <strong>10 tarjetas</strong> = <span style="color:blue;">10 euros por tarjeta</span> + <span style="color:red;">el oro</span><br />
+                                        <strong>25 tarjetas</strong> = <span style="color:blue;">5 euros por tarjeta </span>+ <span style="color:red;">el oro</span><br />
+                                        <strong>50 tarjetas</strong> = <span style="color:blue;">3 euros por tarjeta </span>+ <span style="color:red;">el oro</span><br />
+                                        <strong>250 tarjetas</strong> = <span style="color:blue;">1 euro por tarjeta </span>+ <span style="color:red;">el oro</span></p>
+
+
+                                        <p>Las Branding Card de Karatbars es realmente una gran opción de negocio ya que abre un verdadero mundo de posibilidades, tanto para clientes al poder crear desde una sola tarjeta totalmente exclusiva y tener libertad de precios en la venta de las mismas como para los afiliados dándole una opción de ganancia realmente espectacular.</p>
+
+                                        <p>Este producto tiene un sinfín de posibilidades, desde empresas, comercios, tiendas de regalos, agencias de turismo, ayuntamientos para sus campañas de turismo, clubes deportivos, asociaciones, personas que desean hacer regalos personales, exclusivos y personalizados…</p> 
+
+                                        <p>El límite de este producto solo lo pone cada uno.</p>
+
+                                        <p><strong>¿Como se realizan los pedidos de las Branding Cards personalizables?</strong></p>
+                                        
+                                        
+                                        <strong>Los pedidos de Branding Cards se realizan en tres pasos:</strong>
+                                        
+
+                                        <p><strong>Paso 1:</strong> Diseño de la Branding Card.<br />
+                                        <strong>Paso 2:</strong> Realización del pedido.<br />
+                                        <strong>Paso 3:</strong> Envío de las imágenes.</p>
+
+                                        
+                                        <p><strong>Veamos paso a paso como se realiza:</strong></p>
+                                        
+
+                                        
+                                        <p><strong>Paso 1: Diseño de la Branding Card.</strong></p>
+
+                                        <p>Lo primero que usted o su cliente tiene que hacer es crear su diseño, si su cliente no sabe como hacerlo lo puede hacer usted como servicio a su cliente.</p>
+
+                                        <p>Para realizar el diseño puede utilizar cualquier programa de edición de imágenes, Photoshop, Framework, Gimp e incluso el propio Paint que viene instalado en todas las versiones de Windows.</p>
+
+                                        <p>Lo más importante a tener en cuenta a la hora de crear el diseño es las dimensiones de la imagen, la resolución y respetar la posición en la que va insertado el lingote de oro.</p>
+
+                                        <p>Las medidas de las imágenes deben ser 1028 píxel de ancho X 647 píxel de alto.</p>
+
+                                        <p>La resolución que debe asignarse a la imagen debe ser de 300 dpi.</p>
+
+                                        <p>Todos los editores de imágenes le permiten crear esta configuración.</p>
+
+                                        <p>Una vez que ya tenga configuradas las medidas en su editor de imágenes ya puede comenzar a crear el montaje de imágenes.</p>
+
+                                        <p>Recuerde que tiene que crear dos imágenes por Branding Card, la parte delantera y la parte trasera.</p>
+
+                                        <p>Cuando tenga creadas las dos imágenes, déle a cada imagen un nombre que identifique a cada lado de la Branding Card.</p>
+
+                                        <p><strong>Por ejemplo:</strong></p>
+
+
+                                        <p>- Para la cara de delante de la Branding Card ponga al archivo: <strong>brandingcard-front.png</strong><br />
+                                        - Para la cara de detrás de la Branding Card ponga al archivo el nombre: <strong>branding-card-back.png</strong></p>
+
+
+                                        <p>Dependiendo del formato de la imagen que usted vaya a enviar la extensión de las imágenes podrán ser: .png como en los ejemplos anteriores, o .jpg, o .gif.</p>
+
+
+                                        <p>Le recomendamos que las imágenes las envíe, si es posible, en formato .png ya que es de máxima calidad, sin compresión y por lo tanto no tendrá perdida de calidad.</p>
+
+
+                                        <p>Recuerde que el lingote de oro va en el centro de la tarjeta, por tanto recuerde que ningún detalle importante de la imagen quede en la zona en la que va el lingote de oro.</p>
+
+
+                                        <p>En las imágenes que envíe no ponga ni el lingote de oro ni el logotipo de Karatbars.</p>
+
+                                        <p style="text-align:center;"><strong>PLANTILLA EJEMPLO</strong></p>
+
+                                        <p></p>
+                                        
+                                        <img src="../assets/img/backoffice/impresion.jpg" style="margin-left:20px; width:95%;">
+
+                                        <br />
+                                        <br />
+
+                                        <p><strong>Recuerde que es IMPORTANTÍSIMO respetar las zonas donde va el lingote de oro y el Logotipo de Karatbars.</strong></p>
+                                        
+
+                                        <p>En la imagen final no tienen que ir los cantos redondeados ni debe ir la línea negra que delimita el canto de la tarjeta.</p>
+
+                                        <p>En la imagen que usted envíe tampoco debe ir el lingote dibujado ni el logotipo de Karatbars.</p>
+
+                                        <p>Puede descargar desde el siguiente enlace las plantillas a tamaño real para crear sus Branding Cards o para enviárselas a sus clientes, las dimensiones de las plantillas son reales:  <a href="../assets/archivos/plantilla-branding-cards.zip">PULSE AQUÍ PARA DESCARGAR...</a></p>
+
+
+                                        <p><strong>Paso 2: Realización del pedido.</strong></p> 
+
+                                        <p>Una vez que ya tenga creado el diseño de su tarjeta por delante y por detrás, es el momento de realizar el pedido de sus Branding Cards, para ello acceda a su cuenta de Karatbars International desde el siguiente enlace: <a href="https://karatbars.com/index.php?page=login_1" target="_blank">https://karatbars.com/index.php?page=login_1</a></p>
+
+                                        <p><strong>Una vez dentro siga los siguientes pasos para acceder a la zona desde donde tiene que hacer el pedido:</strong></p>
+
+                                        
+
+                                        <img src="../assets/img/backoffice/new-branding-cards-pedido.gif" style="margin-left:20px; width:95%;">
+
+
+                                        Una vez dentro de esta zona realice el pedido como con cualquier otro producto, elija la cantidad, déle a 
+                                        &quot;<i><b>Añadir al Carrito</b></i>&quot; y después vaya a &quot;<i><b>View cart</b></i>&quot; 
+                                        a la derecha, donde aparece un carrito de supermercado, para realizar el pago de su pedido.<br><br>
+                                        El precio que aparece en su zona de pedidos ya es precio con oro.<br><br>
+                                        <font color="#FF0000"><b>IMPORTANTE</b></font>: Fíjese que hay varias opciones de compra, si va a comprar de 1 a 9 Branding Cards utilice la primera opción 
+                                        indicando la cantidad de Branding Cards que desee comprar, pero si va a pedir de 10 en adelante, revise las opciones de más abajo puesto que los precios cambian por tarjeta según la cantidad que se compren.<br><br><br>
+                                        <b>Paso 3:</b> Envío de las imágenes.
+                                        <br><br>
+                                        Una vez que haya realizado el pedido de sus Branding Cards y lo haya pagado es el momento de pasar al siguiente paso, el 
+                                        envío de sus imágenes para que se complete el proceso.<br><br>
+                                        Comprima las imágenes en un archivo .ZIP para poder enviar las dos imágenes juntas o también puede enviar las imágenes como datos adjuntos en un email.<br><br>
+                                        Lo haga como lo haga los archivos debe enviarlos a la siguiente dirección de email: 
+                                        <a href="mailto:branding@karatbars.com" alt="Email al que usted debe enviar las imágenes de sus Branding Cards" title="Email al que usted debe enviar las imágenes de sus Branding Cards">branding@karatbars.com</a><br><br>
+                                        Una vez que haya enviado sus imágenes a esta dirección de email, su pedido se habrá completado.<br><br>
+                                        El departamento de Branding Cards le enviará unas pruebas de impresión antes de proceder a la creación de sus Branding Cards antes de proceder a su producción.<br><br><br>
+                                        </font><b><font face="Tahoma">¿Cuanto gana usted por la venta de Branding Cards?
+                                        </font></b><font face="Tahoma" size="2">
+                                        <br><br>
+                                        Las Branding Cards es un producto con el que usted tiene libertad a la hora de venderlas a sus clientes finales, si así lo desea. Usted puede crear Branding Cards con diferentes diseños y venderlas al precio que desee.<br><br>
+                                        <b>Pero en el caso de que sean sus clientes o sus afiliados quienes las compren directamente a Karatbars International, usted gana comisiones de la siguiente forma:<br><br>
+                                        - Si usted no tiene activado su Sistema Dual:</b> (Si no a adquirido su Kit de 
+                                        Negocio).<br><br>
+                                        Si usted no tiene activo su Sistema Dual gana el % correspondiente a su rango en el Plan Unilevel de Karatbars:<br><br>
+                                        <b>Supervisor:</b> <font color="#0000FF">0,5%</font><br><b>Bronze Supervisor: 
+                                        </b><font color="#0000FF">1%</font><br><b>Silver Supervisor:</b>
+                                        <font color="#0000FF">1,5%</font><br><b>Gold 
+                                        Supervisor:</b> <font color="#0000FF">2%</font><br>
+                                        <b>Bronze Manager:</b><font color="#0000FF"> 2,5%</font><br>
+                                        <b>Silver Manager:<font color="#0000FF"> </font></b><font color="#0000FF">3%</font><br>
+                                        <b>Gold Manager:</b><font color="#0000FF"> 3,5%</font><br>
+                                        <b>Bronze Director:</b> <font color="#0000FF">4%</font><br>
+                                        <b>Silver Director:</b> <font color="#0000FF">4,5%</font><br>
+                                        <b>Gold Director: </b><font color="#0000FF">5%</font><br>
+                                        <b>Gold Director Elite:</b> <font color="#0000FF">5.5%</font><br>
+                                        <b>Gold Director Elite con <font color="#FF0000">1</font> Gold Director Elite en su equipo: 
+                                        </b><font color="#0000FF">5,75%</font><br>
+                                        <b>Gold Director Elite con <font color="#FF0000">2</font> Gold Director Elite en su equipo:</b>
+                                        <font color="#0000FF">5,90%</font><br>
+                                        <b>Gold Director Elite con <font color="#FF0000">3</font> Gold Director Elite en su equipo:</b>
+                                        <font color="#0000FF">6%</font><br><br><br>
+                                        </font><b><font face="Tahoma">
+                                        Si usted tiene activo su Sistema Dual:</font></b><font face="Tahoma" size="2"><br><br>
+                                        Si usted tiene activo su Sistema Dual, las ganancias aumentan.<br><br>
+                                        <b>El pago de comisiones por la venta de Branding Cards, si usted tiene 
+                                        activo su Sistema Dual, se divide en 2:<br><br>
+                                        -
+                                        Pago de comisión por las tarjetas </b>(sin el oro).<b><br>
+                                        -
+                                        Pago de comisión por el oro.</b><br><br><br>
+                                        </font></font><font face="Tahoma" size="2">
+                                        <b>Pago de comisión por las tarjetas sin el oro.</b></font><font face="Tahoma" style="font-size: 11pt"><font face="Tahoma" size="2"><br><br>
+                                        Por un lado usted cobraría la comisión por la venta de las tarjetas sin el 
+                                        oro, la 
+                                        comisión que usted cobra de las tarjetas es según su rango en el Sistema Dual:
+                                        <br><br>
+                                        <b>Si usted tiene el Kit Bronze</b> cobra un <font color="#0000FF">5%</font> de comisión.<br>
+                                        <b>Si usted tiene el Kit Silver</b> cobra un <font color="#0000FF">10%</font> de comisión.<br>
+                                        <b>Si usted tiene el Kit Gold</b> cobra un <font color="#0000FF">15%</font> de comisión.<br>
+                                        <b>Si usted tiene el Kit VIP</b> cobra un <font color="#0000FF">20%</font> de comisión.<br>
+                                        <b>Si usted tiene el Kit VIP Exclusive</b> cobra un <font color="#0000FF">20%</font> de comisión.<br><br>
+                                        </font><font face="Tahoma" size="2" style="font-size: 10pt">
+                                        <b>Pago de comisión por el oro.</b></font><font face="Tahoma" size="2"><br><br>
+                                        El oro usted lo cobra aparte según su rango dentro del Plan Unilevel como se indica arriba.<br><br><br>
+                                        <b>Veamos dos ejemplo de ganancias, uno sin tener usted activo su Sistema Dual y el mismo ejemplo teniendo activo su Sistema Dual.</b><br><br>
+                                         Pongamos que en los dos ejemplos, su cliente o su afiliado realiza un pedido de 50 Branding Cards.<br>
+                                         Pongamos para los ejemplos que usted tiene el rango Gold Manager con el cual usted gana un 3,5%.<br><br><br>
+                                        <b>Sin Sistema Dual</b>:<br><br>
+                                         <b>50 tarjetas X 3 euros por tarjeta =</b> <font color="#0000FF">150 euros</font><br><br>
+                                         Pongamos que el gamo de oro el día del pedido está a 48 euros. (Recuerde que el precio del oro cambia diariamente).<br><br>
+                                        
+                                         <b>50 gramos de oro X 48 euros el gramo = </b><font color="#0000FF">2400 euros</font><br>
+                                         <b>2400 euros del oro + 150 euros de las tarjetas =</b> 
+                                        <font color="#0000FF">2550 euros</font><br><br>
+                                         <b>2550 euros de venta x 3,5% =</b> <b><font color="#D22B00">89,25 euros de comisión</font></b>.<br><br>&nbsp;</font></font><hr>
+                                        <p><font face="Tahoma" style="font-size: 11pt"><font face="Tahoma" size="2"><br>
+                                         </font>
+                                         <b><font face="Tahoma">Ahora veamos el mismo ejemplo con su Sistema Dual activo:</font><font face="Tahoma" size="2"><br><br>
+                                         50 tarjetas X 3 euros por tarjeta =</font></b><font face="Tahoma" size="2"> 
+                                        <font color="#0000FF">150 euros</font><br>
+                                         <b>50 gramos de oro X 48 euros el gramo =</b> <font color="#0000FF">2400 euros</font><br><br><br>
+                                         <b>Por un lado usted cobraría el oro según su rango en el Plan Unilevel:</b><br><br>
+                                         <b>2400 euros X 3,5% =</b> <font color="#0000FF">84 euros</font><br><br><br>
+                                         <b>Y por otro lado cobraría las comisiones de las tarjetas según su rango en 
+                                        el Sistema Dual.</b><br><br>
+                                        <b><font color="#D22B00">Pongamos para este ejemplo que usted tiene su Kit 
+                                        de Negocio VIP.</font></b><br><br>
+                                         <b>150 euros x 20% =</b> 
+                                         <font color="#0000FF">30 euros</font><br><br>
+                                         <b>Total de ganancias teniendo activo su Sistema Dual:</b><br><br>
+                                         <b>84 euros del oro+ 30 euros de las tarjetas =</b> <b>
+                                        <font color="#D22B00">114 euros de comisión</font></b>.<br><br><br></font><b><font face="Tahoma">Resumiendo:</font></b><font face="Tahoma" size="2"><br><br>
+                                        <b>Usted ganaría con este ejemplo:</b><br><br>
+                                        <b>Sin tener su Sistema Dual activo:</b> <b><font color="#0000FF">84 euros</font></b><br>
+                                        <b>Teniendo su Sistema Dual activo:</b> <b><font color="#D22B00">114 euros</font></b><br><br><br>
+                                        <font color="#FF0000"><b>IMPORTANTE</b></font>:
+                                        El mismo tiempo empleado, el mismo esfuerzo empleado, mayores ganancias teniendo el Sistema Dual activo.<br><br>
+                                        Esto es comisión comisiones por venta directa, a esto habría que sumarle las unidades que le genera esta venta para cobrar ciclos teniendo el Sistema Dual activo.<br>
+                                        <br>
+                                        <font color="#FF0000"><b>Recuerde que para tener su Sistema Dual activo simplemente tiene que adquirir un Kit de Negocio Karatbars de los 5 que hay disponibles.</b></font></font>
+                                        
+                                    </div>
+                                </div>   
+                            </div>                            
+                            <!-- END WIDGET REGISTRED -->
+                            
+                        </div>
+
+                    </div>
+
+                   
+                    <!-- END WIDGETS -->                    
+                    
+                    
+                    
+               
+                </div>
+                <!-- END PAGE CONTENT WRAPPER -->   
+
+                
+			
+
+
+          
+
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('backoffice.index', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

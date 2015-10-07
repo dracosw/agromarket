@@ -1,0 +1,73 @@
+<?php $__env->startSection('contenido'); ?>   
+
+                
+
+                    <div class="row">
+
+
+                         <div class="col-md-4">
+                            
+                            <!-- START WIDGET REGISTRED -->
+                            <div class="widget widget-default widget-item-icon">
+                                <div style="padding:10px;">
+                                    <h2>Curso Facebook Marketing</h2>        
+                                    
+                                     <div class="panel-body">        
+                                        <p>Hola, Bienvenido al curso de Facebook Marketing, potencializa tu negocio con esta grandiosa herramienta.</p>
+                                       <div class="form-group">
+                                            <button type="button" class="btn btn-danger col-md-12 botones" >1. Configuración FanPage.</button>
+                                            <button type="button" class="btn btn-danger col-md-12 botones" >1. ¿Cómo funciona el Back Office?</button>
+                                            <button type="button" class="btn btn-danger col-md-12 botones" >2. ¿Cómo Editar el Perfíl?</button>
+                                            <button type="button" class="btn btn-danger col-md-12 botones" >3. ¿Cómo configurar el embudo?</button>                                            
+                                        </div>
+                                    </div>
+                                  
+                                </div>
+                                               
+                            </div>                            
+                            <!-- END WIDGET REGISTRED -->
+                            
+                        </div>
+
+
+                         <div class="col-md-8">
+                            
+                            <!-- START WIDGET REGISTRED -->
+                            <div class="widget widget-default widget-item-icon">
+                                <div style="padding:10px;">
+                                    <h2>1. Configuración FanPage.</h2>        
+
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                      <iframe id="video_principal" class="embed-responsive-item" src="https://www.youtube.com/embed/7Wk_-tVhvlo" frameborder="0" allowfullscreen></iframe>
+                                    </div>
+                                    
+                                </div>
+                                               
+                            </div>                            
+                            <!-- END WIDGET REGISTRED -->
+                            
+                        </div>
+
+
+                        
+
+
+                    </div>
+
+                   
+                    <!-- END WIDGETS -->                    
+                    
+                    
+                    
+               
+                </div>
+                <!-- END PAGE CONTENT WRAPPER -->   
+
+                
+			
+
+
+          
+
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('backoffice.index', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
